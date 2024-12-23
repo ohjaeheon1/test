@@ -8,6 +8,8 @@
     <td style="vertical-align: bottom; padding-left: 20px; width: 70%;">
       <strong>오재헌</strong><br><br>
       1997년 02월 28일 출생<br><br>
+      프론트엔드구현 및 백엔드개발을 위한 풀스택 인재양성 과정 수료(2024.06~2024.12)<br><br>
+      광명시 & 한양대학교 에리카캠퍼스 웹개발자 양성과정 수료(2023.08 ~ 2024.01)<br><br>
       소하고등학교 졸업 (2013.03 ~ 2016.02)<br>
       리츠메이칸 대학 중퇴(2016~2021)<br><br>
       <strong>E-mail :</strong> <a href="mailto:qca1313@naver.com">qca1313@naver.com</a><br>
