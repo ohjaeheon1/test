@@ -1,17 +1,15 @@
 # Profile
 
-<table style="border: none;">
-  <tr style="border: none;">
-
-    <td style="border: none;">
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 30%; padding-right: 20px;">
       <img src="https://github.com/user-attachments/assets/272b594e-7513-4ea0-8f1e-0519733b8df3" alt="Profile Image" width="200" height="250">
     </td>
-    <td style="border: none; vertical-align: bottom; padding-left: 20px;">
+    <td style="vertical-align: bottom; padding-left: 20px; width: 70%;">
       <strong>오재헌</strong><br><br>
       1997년 02월 28일 출생<br><br>
       소하고등학교 졸업 (2013.03 ~ 2016.02)<br>
       리츠메이칸 대학 중퇴(2016~2021)<br><br>
-
       <strong>E-mail :</strong> <a href="mailto:qca1313@naver.com">qca1313@naver.com</a><br>
       <!--<strong>GitHub :</strong> <a href="https://github.com/ohjaeheon1/">https://github.com/ohjaeheon1/</a><br>-->
     </td>
