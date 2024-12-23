@@ -35,17 +35,17 @@
   
 ### Part
 
-- ● React를 사용한 프론트엔드 개발 및 반응형 웹 디자인:  미디어 쿼리와 Flexbox, CSS Grid를 활용하여 다양한 화면 크기에 맞는 반응형 디자인 구현.
+- React를 사용한 프론트엔드 개발 및 반응형 웹 디자인:  미디어 쿼리와 Flexbox, CSS Grid를 활용하여 다양한 화면 크기에 맞는 반응형 디자인 구현.
 
-- ● 상태 관리: 리덕스 또는 Context API 없이 React의 useReducer와 커스텀 훅 useStore를 사용하여 상태 관리 시스템 구축.
+- 상태 관리: 리덕스 또는 Context API 없이 React의 useReducer와 커스텀 훅 useStore를 사용하여 상태 관리 시스템 구축.
 
-- ● Axios로 RESTful API 연동: 백엔드와의 실시간 데이터 통신을 위해 Axios를 사용하여 API 연동 및 데이터 처리.
+- Axios로 RESTful API 연동: 백엔드와의 실시간 데이터 통신을 위해 Axios를 사용하여 API 연동 및 데이터 처리.
 
-- ● 프레이머 모션(Framer Motion): 메인 페이지 섹션 이동 애니메이션, 헤더 햄버거 메뉴 애니메이션, 스크롤 애니메이션 등 다양한 동적 효과 구현
+- 프레이머 모션(Framer Motion): 메인 페이지 섹션 이동 애니메이션, 헤더 햄버거 메뉴 애니메이션, 스크롤 애니메이션 등 다양한 동적 효과 구현
 
-- ● React Slick 활용: 슬라이더 컴포넌트를 이용한 동적 콘텐츠 구현
+- React Slick 활용: 슬라이더 컴포넌트를 이용한 동적 콘텐츠 구현
 
-- ● 클라이언트 사이드 라우팅: React Router를 사용하여 동적인 페이지 탐색과 URL 관리를 구현.
+- 클라이언트 사이드 라우팅: React Router를 사용하여 동적인 페이지 탐색과 URL 관리를 구현.
 
 
 ### 기술 스택
