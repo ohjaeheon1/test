@@ -19,38 +19,6 @@
 </table>
 
 # Projects
-
-## 광명시 & 한양대학교 에리카캠퍼스 웹개발자 양성과정 (2023.08 ~ 2024.01)
-
-<img src="https://github.com/choijk917/portfolio/assets/148047944/97c1aa44-b48f-45b7-8d1b-7d098c1db1e3" alt="Project Image" width="400" height="218"><br>  
-
-<!--### Topic-->
-- 자녀의 스마트폰 중독을 방지하기 위해 사용 시간을 설정할 수 있는 어플리케이션 ‘**아이들(Aidle)**’의<br>
-  웹페이지 제작 프로젝트  
-- 광명시 & 한양대학교 에리카캠퍼스 웹개발자 양성과정 **금상** 수상
-
-### Summary
-
-- HTML, JavaScript, CSS를 기반으로 하여 페이지 스크롤 방식의 메인 페이지를 구성
-- JavaScript를 활용해 고객센터 검색 조건 구현
-
-### Part
-
-- 메인 페이지 구성
-- 사용가이드 구성
-
-### 기술 스택
-- HTML/CSS
-- SASS
-- JavaScript
-
-### Tool
-
-- Visual Stuio Code
-- GitHub
-- Slack
-- Figma
-- Jira
 ## 프론트엔드구현 및 백엔드개발을 위한 풀스택 인재양성 과정 (2024.06 ~ 2024.12)
 
 <img src="https://github.com/user-attachments/assets/ebb73ebe-a3bb-44d1-b38b-59d085a2583a" alt="Project Image" width="400" height="218"><br>
@@ -99,3 +67,35 @@
 - SQL Gate
 - figma
 - draw.io
+
+## 광명시 & 한양대학교 에리카캠퍼스 웹개발자 양성과정 (2023.08 ~ 2024.01)
+
+<img src="https://github.com/choijk917/portfolio/assets/148047944/97c1aa44-b48f-45b7-8d1b-7d098c1db1e3" alt="Project Image" width="400" height="218"><br>  
+
+<!--### Topic-->
+- 자녀의 스마트폰 중독을 방지하기 위해 사용 시간을 설정할 수 있는 어플리케이션 ‘**아이들(Aidle)**’의<br>
+  웹페이지 제작 프로젝트  
+- 광명시 & 한양대학교 에리카캠퍼스 웹개발자 양성과정 **금상** 수상
+
+### Summary
+
+- HTML, JavaScript, CSS를 기반으로 하여 페이지 스크롤 방식의 메인 페이지를 구성
+- JavaScript를 활용해 고객센터 검색 조건 구현
+
+### Part
+
+- 메인 페이지 구성
+- 사용가이드 구성
+
+### 기술 스택
+- HTML/CSS
+- SASS
+- JavaScript
+
+### Tool
+
+- Visual Stuio Code
+- GitHub
+- Slack
+- Figma
+- Jira
