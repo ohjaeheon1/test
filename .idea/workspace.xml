@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23a5d131-054a-4899-ab21-b1c92ffd0d64" name="변경" comment="kkomo_adopt_한국소프트웨어인재개발원_147기" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ohjaeheon1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ohjaeheon1/portfolio.git",
+    "accountId": "5798b5ba-e2c9-40db-96f5-ba1729a13e91"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2qvQuz8IAdANHHZiAgjQExkjtEg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/깃허브용"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="23a5d131-054a-4899-ab21-b1c92ffd0d64" name="변경" comment="" />
+      <created>1735540795451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735540795451</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ss">
+      <option name="closed" value="true" />
+      <created>1735540910549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735540910549</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ss">
+      <option name="closed" value="true" />
+      <created>1735540991985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735540991985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ss">
+      <option name="closed" value="true" />
+      <created>1735541135917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735541135917</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ss">
+      <option name="closed" value="true" />
+      <created>1735541351476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735541351476</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ss">
+      <option name="closed" value="true" />
+      <created>1735541421430</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735541421430</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ss">
+      <option name="closed" value="true" />
+      <created>1735541494425</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735541494425</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ppt">
+      <option name="closed" value="true" />
+      <created>1735541645454</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735541645454</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1">
+      <option name="closed" value="true" />
+      <created>1735541749573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735541749573</updated>
+    </task>
+    <task id="LOCAL-00009" summary="kkomo_adopt_한국소프트웨어인재개발원_147기">
+      <option name="closed" value="true" />
+      <created>1735541914194</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735541914194</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ss" />
+    <MESSAGE value="ppt" />
+    <MESSAGE value="1" />
+    <MESSAGE value="kkomo_adopt_한국소프트웨어인재개발원_147기" />
+    <option name="LAST_COMMIT_MESSAGE" value="kkomo_adopt_한국소프트웨어인재개발원_147기" />
+  </component>
+</project>
